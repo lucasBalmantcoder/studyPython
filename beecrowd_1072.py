@@ -5,6 +5,7 @@ out_count = 0
 
 for _ in range(n):
     x = int(input())
+    print(x)
     if 10 <= x <= 20:
         in_count += 1
     else:
