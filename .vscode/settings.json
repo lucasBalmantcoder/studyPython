@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./pj_flask"
+    ]
+}
